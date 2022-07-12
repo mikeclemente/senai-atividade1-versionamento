@@ -36,3 +36,8 @@ do comando git log para consultar o novo commit.
 no trunk.
 
 14 - Alterações feitas no Readme da nova branch.
+
+--------------------------------------------
+
+15 - Utilizando o comando git merge tarefa/atualizacao-readme para fundir as atualizações da branch com o trunk. Logo após foi realizado
+outro push para atualizar o repositório remoto com novas alterações.
